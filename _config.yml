@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: cysecu.dev
 description: entry to cysecu universe
+
+url: "https://cysecu.dev" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
