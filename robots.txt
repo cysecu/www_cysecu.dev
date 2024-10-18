@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: .gitignore
+Disallow: _config.yml
+Disallow: CNAME
+
+User-agent: *
+Disallow:
